@@ -1,0 +1,4 @@
+hi,hello
+how are you,i am fine
+what are you,i am a baby chat bot
+whats up,nothing
